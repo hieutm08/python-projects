@@ -1,0 +1,5 @@
+pip install pyttsx3 //thư viện đọc
+pip install speech_recognition // thư viện nhận diện giọng nói
+pip install pyaudio
+pip install googletrans
+pip install Pillow
